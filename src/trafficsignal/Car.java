@@ -1,5 +1,5 @@
-package traffcsignal;
+package trafficsignal;
 
 public class Car {
-    int passTime = 1;
+	int passTime = 1;
 }
